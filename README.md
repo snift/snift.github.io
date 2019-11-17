@@ -1,3 +1,2 @@
-## Snift
 
-Snift is a tool to identify security vulnerabilities on the web.
+Snift helps you identify security vulnerabilities by building a score, based on multiple factors. 
